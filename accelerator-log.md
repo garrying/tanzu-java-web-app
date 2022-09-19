@@ -4,7 +4,7 @@
 ```json
 {
   "projectName" : "tanzu-java-web-app",
-  "repositoryPrefix" : "harbor.wwworkshop.org/library/supply-chain"
+  "repositoryPrefix" : "harbor.wwworkshop.org/library"
 }
 ```
 ## Log
